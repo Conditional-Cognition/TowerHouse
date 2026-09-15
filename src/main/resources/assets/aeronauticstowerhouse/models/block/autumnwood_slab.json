@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "aeronauticstowerhouse:block/autumnwood_planks",
+    "side": "aeronauticstowerhouse:block/autumnwood_planks",
+    "top": "aeronauticstowerhouse:block/autumnwood_planks"
+  }
+}

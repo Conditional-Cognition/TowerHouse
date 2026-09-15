@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_trapdoor_open",
+  "textures": {
+    "texture": "aeronauticstowerhouse:block/autumnwood_trapdoor",
+    "particle": "aeronauticstowerhouse:block/autumnwood_trapdoor"
+  }
+}

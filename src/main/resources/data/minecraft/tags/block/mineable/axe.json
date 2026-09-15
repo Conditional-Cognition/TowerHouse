@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "aeronauticstowerhouse:autumnwood_log",
+    "aeronauticstowerhouse:autumnwood_wood",
+    "aeronauticstowerhouse:stripped_autumnwood_log",
+    "aeronauticstowerhouse:stripped_autumnwood_wood",
+    "aeronauticstowerhouse:autumnwood_planks",
+    "aeronauticstowerhouse:autumnwood_stairs",
+    "aeronauticstowerhouse:autumnwood_slab",
+    "aeronauticstowerhouse:autumnwood_fence",
+    "aeronauticstowerhouse:autumnwood_fence_gate",
+    "aeronauticstowerhouse:autumnwood_button",
+    "aeronauticstowerhouse:autumnwood_pressure_plate",
+    "aeronauticstowerhouse:autumnwood_door",
+    "aeronauticstowerhouse:autumnwood_trapdoor",
+    "aeronauticstowerhouse:autumnwood_sign",
+    "aeronauticstowerhouse:autumnwood_wall_sign",
+    "aeronauticstowerhouse:autumnwood_hanging_sign",
+    "aeronauticstowerhouse:autumnwood_wall_hanging_sign"
+  ]
+}

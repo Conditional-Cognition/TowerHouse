@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom,waterlogged=false": {
+      "model": "aeronauticstowerhouse:block/autumnwood_slab"
+    },
+    "type=top,waterlogged=false": {
+      "model": "aeronauticstowerhouse:block/autumnwood_slab_top"
+    },
+    "type=double,waterlogged=false": {
+      "model": "aeronauticstowerhouse:block/autumnwood_planks"
+    }
+  }
+}

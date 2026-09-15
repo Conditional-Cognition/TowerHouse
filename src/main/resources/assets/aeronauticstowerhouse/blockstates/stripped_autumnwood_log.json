@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "aeronauticstowerhouse:block/stripped_autumnwood_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "aeronauticstowerhouse:block/stripped_autumnwood_log"
+    },
+    "axis=z": {
+      "model": "aeronauticstowerhouse:block/stripped_autumnwood_log",
+      "x": 90
+    }
+  }
+}
