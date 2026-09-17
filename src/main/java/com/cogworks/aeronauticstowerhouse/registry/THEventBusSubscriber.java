@@ -9,7 +9,7 @@ import net.neoforged.neoforge.event.BlockEntityTypeAddBlocksEvent;
 @SuppressWarnings("removal")
 @EventBusSubscriber(modid = AeronauticsTowerHouse.MODID, bus = EventBusSubscriber.Bus.MOD)
 public class THEventBusSubscriber {
-
+/*
     @SubscribeEvent
     public static void onAddBlocksToBlockEntityType(BlockEntityTypeAddBlocksEvent event) {
         // Register standard signs and wall signs
@@ -25,5 +25,5 @@ public class THEventBusSubscriber {
             THBlocks.AUTUMNWOOD_HANGING_SIGN, 
             THBlocks.AUTUMNWOOD_WALL_HANGING_SIGN
         );
-    }
+    }*/
 }

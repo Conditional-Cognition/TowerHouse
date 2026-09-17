@@ -18,7 +18,7 @@ public class THTabs {
                     .withTabsBefore(CreativeModeTabs.COMBAT)
                     .icon(() -> THItems.TOWERMAKER.getDefaultInstance())
                     .displayItems((parameters, output) -> {
-                        output.accept(THItems.TOWERMAKER);
+                        output.accept(THItems.TOWERMAKER);/*
                         output.accept(THItems.AUTUMNWOOD_LEAVES);
                         output.accept(THItems.AUTUMNWOOD_LOG);
                         output.accept(THItems.AUTUMNWOOD_WOOD);
@@ -36,7 +36,7 @@ public class THTabs {
                         output.accept(THItems.AUTUMNWOOD_DOOR);
                         output.accept(THItems.AUTUMNWOOD_TRAPDOOR);
                         output.accept(THItems.AUTUMNWOOD_SIGN);
-                        output.accept(THItems.AUTUMNWOOD_HANGING_SIGN);
+                        output.accept(THItems.AUTUMNWOOD_HANGING_SIGN);*/
                     })
                     .build();
             helper.register(

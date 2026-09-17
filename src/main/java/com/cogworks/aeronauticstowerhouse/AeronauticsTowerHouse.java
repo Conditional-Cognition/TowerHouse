@@ -20,12 +20,12 @@ public class AeronauticsTowerHouse {
     public AeronauticsTowerHouse(IEventBus modEventBus, ModContainer modContainer) {
         modEventBus.addListener(this::commonSetup);
 
-        modEventBus.addListener(THBlocks::register);
+        // modEventBus.addListener(THBlocks::register);
         modEventBus.addListener(THItems::register);
         modEventBus.addListener(THTabs::register);
 
         THDataComponents.COMPONENTS.register(modEventBus);
-        THFeatures.FEATURES.register(modEventBus);
+        //THFeatures.FEATURES.register(modEventBus);
 
         NeoForge.EVENT_BUS.register(this);
 

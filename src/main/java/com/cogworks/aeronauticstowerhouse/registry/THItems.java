@@ -10,7 +10,7 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.item.SignItem;
 import net.neoforged.neoforge.registries.RegisterEvent;
 
-public class THItems {
+public class THItems {/*
     public static BlockItem AUTUMNWOOD_LEAVES;
     public static BlockItem AUTUMNWOOD_LOG;
     public static BlockItem AUTUMNWOOD_WOOD;
@@ -28,7 +28,7 @@ public class THItems {
     public static BlockItem AUTUMNWOOD_DOOR;
     public static BlockItem AUTUMNWOOD_TRAPDOOR;
     public static Item AUTUMNWOOD_SIGN;
-    public static Item AUTUMNWOOD_HANGING_SIGN;
+    public static Item AUTUMNWOOD_HANGING_SIGN;*/
 
     public static Item TOWERMAKER;
 
@@ -36,7 +36,7 @@ public class THItems {
         event.register(BuiltInRegistries.ITEM.key(), helper -> {
             TOWERMAKER = new TowerMakerItem(new Item.Properties());
             helper.register(id("towermaker"), TOWERMAKER);
-
+/*
             AUTUMNWOOD_LEAVES = new BlockItem(THBlocks.AUTUMNWOOD_LEAVES, new Item.Properties());
             helper.register(id("autumnwood_leaves"), AUTUMNWOOD_LEAVES);
 
@@ -86,7 +86,7 @@ public class THItems {
             helper.register(id("autumnwood_sign"), AUTUMNWOOD_SIGN);
 
             AUTUMNWOOD_HANGING_SIGN = new HangingSignItem(THBlocks.AUTUMNWOOD_HANGING_SIGN, THBlocks.AUTUMNWOOD_WALL_HANGING_SIGN, new Item.Properties().stacksTo(16));
-            helper.register(id("autumnwood_hanging_sign"), AUTUMNWOOD_HANGING_SIGN);
+            helper.register(id("autumnwood_hanging_sign"), AUTUMNWOOD_HANGING_SIGN); */
         });
     }
 
